@@ -1,0 +1,25 @@
+{
+	"students": [
+		{
+			"name" : "Mary",
+			"id": 1002,
+			"course": 3
+		},
+		{
+			"name" : "Stephen",
+			"id": 1003,
+			"course": 6
+		}
+	] ,
+	
+	"courses": [
+		{
+			"courseCode": 6,
+			"courseName": "Aerospace" 
+		},
+		{
+			"courseCode": 3,
+			"courseName": "Biotechnology" 
+		}
+	]
+}
